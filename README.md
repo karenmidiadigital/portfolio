@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./bportfólio.jpeg" width="100%" alt="Banner Karen Mídia Digital">
+</p>
 # Portfólio
 
 Bem-vindo ao meu portfólio profissional.
