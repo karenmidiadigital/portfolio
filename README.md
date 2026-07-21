@@ -72,15 +72,15 @@ Site para Personal Trainer especializado em diabetes, com blog, FAQ e estrutura 
 
 ---
 
+Todos os projetos foram desenvolvidos com foco em desempenho, responsividade, experiência do usuário (UX) e otimização para mecanismos de busca (SEO).
+
+---
+
 ### Prompts IA
 
 Biblioteca de prompts desenvolvidos para Marketing Digital, SEO, Google Ads, Inteligência Artificial, automações e produtividade.
 
 🔗 https://github.com/karenmidiadigital/prompts-ia
-
----
-
-Todos os projetos foram desenvolvidos com foco em desempenho, responsividade, experiência do usuário (UX) e otimização para mecanismos de busca (SEO).
 
 ---
 
