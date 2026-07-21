@@ -25,32 +25,50 @@ Serviços voltados para SEO, AEO, GEO, LLMO, Google Ads, Google Business Profile
 
 ---
 
-## Sites Desenvolvidos
+## 🌐 Sites Desenvolvidos
 
-Karen Mídia Digital
+### Karen Mídia Digital
 Site institucional
-HTML • CSS • JavaScript • SEO
-https://michellekaren.com.br
 
-Corumbá Filmes
-Site institucional para produtora audiovisual
-HTML • CSS • JavaScript
-https://corumbafilmes.com.br
+**Tecnologias:** HTML • CSS • JavaScript • SEO
 
-Mi Fá Sol Cake
-Site para confeitaria
-WordPress • SEO • Blog
-https://mifasolcake.com.br
+🔗 https://michellekaren.com.br
 
-Thiago Albernaz
-Site para Personal Trainer
-HTML • SEO • Responsivo
-https://thiagoalbernaz.com.br
+---
 
-Treina Diabético
-Site para Personal Trainer especializado em Diabetes
-HTML • Responsivo • SEO
-https://treinadiabetico.com.br
+### Corumbá Filmes
+Site institucional para produtora audiovisual.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+🔗 https://corumbafilmes.com.br
+
+---
+
+### Mi Fá Sol Cake
+Site para confeitaria.
+
+**Tecnologias:** WordPress • SEO • Blog
+
+🔗 https://mifasolcake.com.br
+
+---
+
+### Thiago Albernaz
+Site para Personal Trainer.
+
+**Tecnologias:** HTML • SEO • Responsivo
+
+🔗 https://thiagoalbernaz.com.br
+
+---
+
+### Treina Diabético
+Site para Personal Trainer especializado em Diabetes.
+
+**Tecnologias:** HTML • Responsivo • SEO
+
+🔗 https://treinadiabetico.com.br
 
 ---
 
