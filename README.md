@@ -27,7 +27,7 @@ Serviços voltados para SEO, AEO, GEO, LLMO, Google Ads, Google Business Profile
 
 ## 🌐 Sites Desenvolvidos
 
-### Karen Mídia Digital
+### Karen Mídia Digital (2026)
 Site institucional desenvolvido para posicionamento digital, SEO e geração de autoridade online.
 
 **Tecnologias:** HTML • CSS • JavaScript • SEO
@@ -36,7 +36,7 @@ Site institucional desenvolvido para posicionamento digital, SEO e geração de 
 
 ---
 
-### Corumbá Filmes
+### Corumbá Filmes (2026)
 Site institucional para produtora audiovisual, com foco em apresentação do portfólio e captação de clientes.
 
 **Tecnologias:** HTML • CSS • JavaScript
@@ -45,7 +45,7 @@ Site institucional para produtora audiovisual, com foco em apresentação do por
 
 ---
 
-### Mi Fá Sol Cake
+### Mi Fá Sol Cake (2026)
 Site para confeitaria e Gastronomia com blog e otimização para buscas locais.
 
 **Tecnologias:** WordPress • SEO • Blog
@@ -54,7 +54,7 @@ Site para confeitaria e Gastronomia com blog e otimização para buscas locais.
 
 ---
 
-### Thiago Albernaz
+### Thiago Albernaz (2026)
 Site para Personal Trainer com foco em conversão de alunos e apresentação dos serviços.
 
 **Tecnologias:** HTML • SEO • Responsivo
@@ -63,7 +63,7 @@ Site para Personal Trainer com foco em conversão de alunos e apresentação dos
 
 ---
 
-### Treina Diabético
+### Treina Diabético (2026)
 Site para Personal Trainer especializado em diabetes, com blog, FAQ e estrutura otimizada para SEO.
 
 **Tecnologias:** HTML • Responsivo • SEO
