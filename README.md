@@ -28,7 +28,7 @@ Serviços voltados para SEO, AEO, GEO, LLMO, Google Ads, Google Business Profile
 ## 🌐 Sites Desenvolvidos
 
 ### Karen Mídia Digital
-Site institucional
+Site institucional desenvolvido para posicionamento digital, SEO e geração de autoridade online.
 
 **Tecnologias:** HTML • CSS • JavaScript • SEO
 
@@ -37,7 +37,7 @@ Site institucional
 ---
 
 ### Corumbá Filmes
-Site institucional para produtora audiovisual.
+Site institucional para produtora audiovisual, com foco em apresentação do portfólio e captação de clientes.
 
 **Tecnologias:** HTML • CSS • JavaScript
 
@@ -46,7 +46,7 @@ Site institucional para produtora audiovisual.
 ---
 
 ### Mi Fá Sol Cake
-Site para confeitaria.
+Site para confeitaria e Gastronomia com blog e otimização para buscas locais.
 
 **Tecnologias:** WordPress • SEO • Blog
 
@@ -55,7 +55,7 @@ Site para confeitaria.
 ---
 
 ### Thiago Albernaz
-Site para Personal Trainer.
+Site para Personal Trainer com foco em conversão de alunos e apresentação dos serviços.
 
 **Tecnologias:** HTML • SEO • Responsivo
 
@@ -64,7 +64,7 @@ Site para Personal Trainer.
 ---
 
 ### Treina Diabético
-Site para Personal Trainer especializado em Diabetes.
+Site para Personal Trainer especializado em diabetes, com blog, FAQ e estrutura otimizada para SEO.
 
 **Tecnologias:** HTML • Responsivo • SEO
 
@@ -77,6 +77,10 @@ Site para Personal Trainer especializado em Diabetes.
 Biblioteca de prompts desenvolvidos para Marketing Digital, SEO, Google Ads, Inteligência Artificial, automações e produtividade.
 
 🔗 https://github.com/karenmidiadigital/prompts-ia
+
+---
+
+Todos os projetos foram desenvolvidos com foco em desempenho, responsividade, experiência do usuário (UX) e otimização para mecanismos de busca (SEO).
 
 ---
 
